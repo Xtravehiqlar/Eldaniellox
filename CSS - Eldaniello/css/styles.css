@@ -1,0 +1,74 @@
+body {
+  background-color: #ace2fc;
+  margin:0;
+  text-align: center;
+}
+
+h1 {color: white;
+text-align: center;
+font-family: 'Ubuntu', sans-serif;
+font-size:500%;
+-webkit-text-stroke: 2.5px black;
+width: 100%;
+
+}
+h2{text-align: center;
+font-family: 'Ubuntu', sans-serif;}
+
+h3 {text-align: center;
+font-family: 'Ubuntu', sans-serif;}
+hr{border: solid; color: gold; height: 0; border-width: thin;}
+
+/************CLASSES*************/
+
+
+.child-1 {background-image: url('eldaniello.png');
+opacity: 0.85;
+background-size:250px 250px;
+background-repeat: repeat-x;
+height: 200px;
+width: 100%;
+position: absolute;
+top:0;
+
+}
+
+.child-2 {
+  background-color: white;
+  height: 200px;
+  width: 100%;
+  text-align: center;
+  position:absolute;
+  top: 200px;
+}
+
+.child-3 {height:auto;
+  width:100%;
+background-color: #ace2fc;
+position: absolute;top: 400px;}
+
+.flames {width: 100%; height: 250px;
+  background-image: url(http://clipart-library.com/img1/1563572.gif);
+position:absolute;top:850px;}
+
+.child-4{height: auto; width: 100%;background-color: orange;position:absolute;top:1100px;}
+
+
+
+.hocus-pocus {color:white;
+text-align:center;
+font-family: 'Ubuntu', sans-serif;
+font-size: 200%;
+-webkit-text-stroke: 2px black;
+width: 100%;
+position:absolute;bottom:0;}
+
+.contact-me {position: absolute;bottom: 0;}
+
+
+/****FONTS****/
+.text {font-family: 'PT Serif', serif;}
+
+
+
+/****IMAGES****/
